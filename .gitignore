@@ -1,0 +1,10 @@
+# Pliki do ignorowania przez Git
+# Plik bazy danych
+data.json
+
+# Zmienne środowiskowe
+.env
+
+# Środowisko wirtualne
+.venv/
+env/
